@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 # Server  code 
 # Lets import the libraries
 
@@ -48,9 +45,3 @@ while True:
                 
 cv2.destroyAllWindows()
 csession.close()
-
-
-
-
-
-
