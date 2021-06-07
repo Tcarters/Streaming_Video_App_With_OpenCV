@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import socket , struct, pickle, cv2, numpy, struct, sys
 
 cap = cv2.VideoCapture(0)
